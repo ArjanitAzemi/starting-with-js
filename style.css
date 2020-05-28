@@ -1,12 +1,13 @@
-.box{
-    background-color: red;
-    color: white;
-    margin: 50px;
-    width: 500px;
-    height: 150px;
-    font-size: 100px;
-    border-radius: 100%;
-    padding: 132px;
-    background-image: url("hello.jpg");
-    background-size: cover;
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 2px solid yellow;
+}
+
+
+.box {
+    font-size: 30px;
+    border: 1px solid red;
 }
