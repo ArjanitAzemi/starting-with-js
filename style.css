@@ -1,13 +1,18 @@
-.container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-evenly;
-    border: 2px solid yellow;
+.nav-link{
+    text-decoration: underline;
 }
 
+.blog-title{
+    margin: auto auto auto 155px;
+    text-decoration: underline;
+}
 
-.box {
-    font-size: 30px;
-    border: 1px solid red;
+.card{
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-left: 10px;
+}
+
+.card2{
+
 }
