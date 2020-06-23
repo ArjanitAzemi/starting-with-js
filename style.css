@@ -3,16 +3,17 @@
 }
 
 .blog-title{
-    margin: auto auto auto 155px;
+    margin: auto ;
     text-decoration: underline;
 }
 
 .card{
-    margin-top: 20px;
-    margin-left: 50px;
+    margin-top: 15px;
+    margin-right: 74px;
+    margin-left: ;
     padding-left: 10px;
+
+    position: relative;
+    float: right;
 }
 
-.card2{
-
-}
