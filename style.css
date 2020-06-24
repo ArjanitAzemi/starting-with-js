@@ -7,19 +7,28 @@
     text-decoration: underline;
 }
 
-.card{
+/*.card{
     margin-top: 10px;
     margin-right: 74px;
     margin-bottom:5px;
     padding-left: 10px;
     position: relative;
     float: right;
-}
+}*/
 
-.jumbotron{
+.card{
+    width: 450px;
+    margin-left: 0px;
+    margin-right: 150px;
+    margin-top: 25px;   
     position: relative;
     float: right;
 }
+
+
+
+
+/* BLOG POST SAMLPE */
 
 
 
@@ -31,6 +40,11 @@
     background-color: #d9d9d9;
     display: inline-block;
     padding: 20px;
+    width: 300px;
+    position: relative;
+    float: right;
+    margin-top: 20px;
+    margin-right: 65px;
 }
 
 .paragraph{
@@ -38,9 +52,22 @@
     display: inline-block;
     padding: 5px;
     margin-top: 10px;
-    width: 700px;
+    width: 800px;
 }
 
 .lorem{
-    width: 700px;
+    width: 800px;
+}
+
+
+.archives{
+    position: relative;
+    float: right;
+}
+
+
+
+.footer-copyright{
+    background-color: gray;
+    margin-top: 20px;
 }
